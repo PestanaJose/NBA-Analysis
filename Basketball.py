@@ -12,3 +12,5 @@ conn.close()
 
 # Display the first few rows
 print(df_games.head())
+
+print("smile")
